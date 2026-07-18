@@ -1,6 +1,6 @@
 # Part-Assessment
 
-Excel Assignment 1 - Data Exploration
+Excel - Data Exploration
 =====================================
 Basic Data Exploration
 1. Sum, Count, and Average
